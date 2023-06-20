@@ -1,2 +1,2 @@
-# Skillbox-weblayout-6
-This is my homework for 6 lesson "weblayout"
+# Skillbox "Lagoona"
+This is my work with "Lagoona" design.
